@@ -26,4 +26,4 @@ In another terminal:
 
     cd frontend && npm install && npm run dev
 
-Built by Sahasra Yikuntam - Ohio State University - NSF Imageomics Institute
+Built by Sahasra Yikuntam
