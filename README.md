@@ -1,5 +1,7 @@
 # Earnings Signal Extractor
 
+[![CI](https://github.com/sahasra-yikuntam/earnings-signal-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/sahasra-yikuntam/earnings-signal-extractor/actions)
+
 An alternative data pipeline that uses LLMs to extract sentiment signals from SEC earnings call transcripts, then backtests whether those signals predict short-term post-earnings stock returns.
 
 ## What It Does
